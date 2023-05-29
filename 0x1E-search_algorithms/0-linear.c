@@ -9,7 +9,7 @@
  * @value: values to search in
  * Return: Always exit_success
  */
-int linear_search(int *size_t size, int value, array)
+int linear_search(int *array, size_t size, int value)
 {
 	int i;
 
